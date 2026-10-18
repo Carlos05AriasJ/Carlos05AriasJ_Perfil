@@ -10,7 +10,7 @@ Vengo del entorno práctico de los sistemas. Cuento con experiencia laboral en *
 
 ### Mi evolución en este espacio
 
-He configurado este perfil de GitHub con un objetivo claro: utilizarlo como mi **registro técnico de aprendizaje a lo largo del máster**. A partir de ahora, iré subiendo e implementando aquí de forma activa todos mis laboratorios de redes (Cisco Packet Tracer), análisis de tráfico (Wireshark) y proyectos de ciberseguridad a medida que avance en las clases. 
+He configurado este perfil de GitHub con un objetivo claro: utilizarlo como mi **registro técnico de aprendizaje a lo largo del máster**. A partir de ahora, iré subiendo e implementando aquí de forma activa todos mis laboratorios de redes (Cisco Packet Tracer), análisis de tráfico y proyectos de ciberseguridad a medida que avance en las clases. 
 
 La idea es documentar mi progreso real paso a paso, mostrando no solo el resultado final, sino también las pruebas de conectividad, los fallos solventados y las conclusiones de cada nuevo aprendizaje. ¡Te invito a seguir de cerca mi evolución!
 
